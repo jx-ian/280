@@ -1,0 +1,30 @@
+Vertex 0: Rank = 0.09716145216513655, 
+In-degree = 1, Out-degree = 1, 
+Adjacent nodes = 2.
+Reverse Adjacent nodes = 5.
+
+Vertex 2: Rank = 0.2601643030935887, 
+In-degree = 3, Out-degree = 3, 
+Adjacent nodes = 3, 5, 7.
+Reverse Adjacent nodes = 0, 5, 7.
+
+Vertex 3: Rank = 0.10659351865870653, 
+In-degree = 2, Out-degree = 1, 
+Adjacent nodes = 8.
+Reverse Adjacent nodes = 2, 7.
+
+Vertex 5: Rank = 0.1787549708238431, 
+In-degree = 2, Out-degree = 2, 
+Adjacent nodes = 2, 0.
+Reverse Adjacent nodes = 2, 7.
+
+Vertex 7: Rank = 0.2601643030935887, 
+In-degree = 2, Out-degree = 3, 
+Adjacent nodes = 2, 3, 5.
+Reverse Adjacent nodes = 2, 8.
+
+Vertex 8: Rank = 0.09716145216513655, 
+In-degree = 1, Out-degree = 1, 
+Adjacent nodes = 7.
+Reverse Adjacent nodes = 3.
+
